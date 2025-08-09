@@ -1,0 +1,11 @@
+C:\Users\NXTGN\source\repos\Controller\ControllerApp\publish\ControllerApp.exe
+C:\Users\NXTGN\source\repos\Controller\ControllerApp\publish\appsettings.Development.json
+C:\Users\NXTGN\source\repos\Controller\ControllerApp\publish\appsettings.json
+C:\Users\NXTGN\source\repos\Controller\ControllerApp\publish\ControllerApp.dll
+C:\Users\NXTGN\source\repos\Controller\ControllerApp\publish\ControllerApp.deps.json
+C:\Users\NXTGN\source\repos\Controller\ControllerApp\publish\ControllerApp.runtimeconfig.json
+C:\Users\NXTGN\source\repos\Controller\ControllerApp\publish\ControllerApp.pdb
+C:\Users\NXTGN\source\repos\Controller\ControllerApp\publish\Microsoft.OpenApi.dll
+C:\Users\NXTGN\source\repos\Controller\ControllerApp\publish\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\NXTGN\source\repos\Controller\ControllerApp\publish\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\NXTGN\source\repos\Controller\ControllerApp\publish\Swashbuckle.AspNetCore.SwaggerUI.dll
